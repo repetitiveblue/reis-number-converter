@@ -1,2 +1,5 @@
 # reis-number-converter
-a small project of mine
+number converter. like uhhh:
+decimal to hexa, octal, and binary.
+
+yeah its good
